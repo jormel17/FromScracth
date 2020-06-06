@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e94aad71-8f9d-4739-89a1-aa75f79b3bbc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cqwhXaj1KG8TmT1io5XTQVGp5i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jormel Vunic\Documents\UdemyFromScratch\UdemyFromScratch" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Academy" />
+      <recent name="pageObject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jormel Vunic\Documents\UdemyFromScratch\UdemyFromScratch\src\main\java\resource" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ValidateTitle">
+    <configuration name="C:/Users/Jormel Vunic/Documents/UdemyFromScratch/UdemyFromScratch/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UdemyFromScratch" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePages" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UdemyFromScratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="resource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Academy" />
+      <option name="MAIN_CLASS_NAME" value="Academy.HomePages" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UdemyFromScratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Academy" />
+      <option name="MAIN_CLASS_NAME" value="Academy.ValidateTitle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ValidateTitle" />
+        <item itemvalue="TestNG.C:/Users/Jormel Vunic/Documents/UdemyFromScratch/UdemyFromScratch/testng.xml" />
+        <item itemvalue="TestNG.HomePages" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e94aad71-8f9d-4739-89a1-aa75f79b3bbc" name="Default Changelist" comment="" />
+      <created>1591269550619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591269550619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="0" width="596" height="728" key="#&lt;default&gt;" timestamp="1591457760995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" width="596" height="728" key="#&lt;default&gt;/0.0.1366.728@0.0.1366.728" timestamp="1591457760995" />
+    <state x="275" y="22" key="#Notifications" timestamp="1591271294536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1591271294536" />
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591465851237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591465851237" />
+    <state x="479" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591456174311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1591456174311" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1591290135702">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591290135702" />
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom" timestamp="1591467372858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591467372858" />
+    <state width="1323" height="194" key="GridCell.Tab.0.center" timestamp="1591467372858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591467372858" />
+    <state width="1323" height="194" key="GridCell.Tab.0.left" timestamp="1591467372858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591467372858" />
+    <state width="1323" height="194" key="GridCell.Tab.0.right" timestamp="1591467372858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591467372858" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1591291643818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591291643818" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1591291643818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1591291643818" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1591291643818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1591291643818" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1591291643818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591291643818" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591450129165">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591450129165" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1591458982079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591458982079" />
+  </component>
+</project>
