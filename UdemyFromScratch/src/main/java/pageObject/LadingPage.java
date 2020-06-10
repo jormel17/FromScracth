@@ -8,7 +8,6 @@ public class LadingPage {
 
     public WebDriver driver;
     By signing = By.xpath("//span[contains(text(),'Login')]");
-
     By title = By.xpath("//h2[contains(text(),'Featured Courses')]");
 
 
@@ -17,10 +16,11 @@ public class LadingPage {
         this.driver = driver;
     }
 
-    public WebElement getLogin(){
+    public LoginPage getLogin(){
 
-        return  driver.findElement(signing);
-
+        driver.findElement(signing).click();
+        LoginPage lp = new LoginPage(driver);
+        return lp;
     }
 
     public WebElement getTitle(){

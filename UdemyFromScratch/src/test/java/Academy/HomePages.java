@@ -1,31 +1,48 @@
 package Academy;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
+import pageObject.ForgotPasswod;
 import pageObject.LadingPage;
 import pageObject.LoginPage;
-import resource.Base;
+import resources.base;
 
 import java.io.IOException;
 
-public class HomePages extends Base {
-    public WebDriver driver;
+public class HomePages extends base {
+    public static Logger log = LogManager.getLogger(base.class.getName());
 
+
+    @BeforeTest
+    public void initialize() throws IOException {
+        driver = initializedDriver();
+        log.info("Driver is initialized");
+
+
+    }
 
     @Test(dataProvider = "getData")
     public void BasePagesNavitgation(String Email, String pass) throws IOException {
         driver.get(pro.getProperty("url"));
-        //driver.manage().window().maximize();
+        log.info("Navigate to home page");
+        driver.manage().window().maximize();
 
         LadingPage l = new LadingPage(driver);
-        l.getLogin().click();
-        LoginPage lp = new LoginPage(driver);
+        LoginPage lp =l.getLogin();
         lp.getEmail().sendKeys(Email);
         lp.getpassword().sendKeys(pass);
+        log.info("Successfully validated Text message");
         lp.getLogin1().click();
+
+        ForgotPasswod fp= lp.ForgotPassword();
+        fp.getEmail().sendKeys("xxx");
+        fp.sendMeIntruction().click();
+
 
     }
 
@@ -42,17 +59,10 @@ public class HomePages extends Base {
         return data;
     }
 
-
 @AfterTest
     public void teardown()
     {
         driver.close();
-    }
-
-    @BeforeTest
-    public void initialize() throws IOException {
-        driver = initializedDriver();
-
     }
 
 }

@@ -10,10 +10,16 @@ public class LoginPage {
     By email = By.xpath("//input[@id='user_email']");
     By password = By.xpath("//input[@id='user_password']");
     By login = By.xpath("//input[@name='commit']");
+    By ForgotPass = By.cssSelector("[href*='password/new']");
 
     public LoginPage(WebDriver driver)
     {
         this.driver = driver;
+    }
+
+    public ForgotPasswod ForgotPassword(){
+        driver.findElement(ForgotPass).click();
+        return new ForgotPasswod(driver);
     }
 
     public WebElement getEmail(){
