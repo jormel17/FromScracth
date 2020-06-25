@@ -3,42 +3,39 @@
   <component name="ChangeListManager">
     <list default="true" id="e94aad71-8f9d-4739-89a1-aa75f79b3bbc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/log4j_api_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/log4j_api_2_13_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/BasePagesNavitgation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/ForgotPasswod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/ForgotPasswod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/LadingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/LadingPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resources/ExtentReporterNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/ExtentReporterNG.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/resources/base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/base.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Academy/HomePages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Academy/HomePages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Academy/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Academy/Listener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Academy/ValidateTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Academy/ValidateTitle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Academy/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Academy/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/UdemyFromScratch.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/ForgotPasswod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/ForgotPasswod.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pageObject/LadingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/LadingPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pageObject/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/resource/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating title.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating title.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/resources/ExtentReporterNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/resources/ExtentReporterNG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/resources/base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/resources/base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Home Pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Home Pages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Home Pages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Home Pages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Academy.HomePages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Academy.HomePages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Academy.ValidateTitle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Academy.ValidateTitle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/Validating title.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/Validating title.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/classes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/Academy/HomePages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Academy/HomePages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Academy/Listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Academy/Listener.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/Academy/ValidateTitle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Academy/ValidateTitle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/UdemyFromScratch.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,21 +72,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/apache-log4j-2.13.3-bin/log4j-core-2.13.3.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gitRipley/flujoRiplay" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jormel Vunic\Documents\UdemyFromScratch\UdemyFromScratch\src\main\java\resource" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jormel Vunic\Documents\UdemyFromScratch\UdemyFromScratch" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="pageObject" />
       <recent name="Academy" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Jormel Vunic\Documents\UdemyFromScratch\UdemyFromScratch" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jormel Vunic\Documents\UdemyFromScratch\UdemyFromScratch\src\main\java\resource" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.C:/Users/Jormel Vunic/Documents/UdemyFromScratch/UdemyFromScratch/testng.xml">
@@ -191,26 +189,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1591456174311" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1591671467172">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1592257355023">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591671467172" />
-    <state width="1323" height="219" key="GridCell.Tab.0.bottom" timestamp="1591802347101">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592257355023" />
+    <state width="1323" height="216" key="GridCell.Tab.0.bottom" timestamp="1593107485387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591802347101" />
-    <state width="1323" height="219" key="GridCell.Tab.0.center" timestamp="1591802347101">
+    <state width="1323" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593107485387" />
+    <state width="1323" height="216" key="GridCell.Tab.0.center" timestamp="1593107485387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591802347101" />
-    <state width="1323" height="219" key="GridCell.Tab.0.left" timestamp="1591802347101">
+    <state width="1323" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593107485387" />
+    <state width="1323" height="216" key="GridCell.Tab.0.left" timestamp="1593107485387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591802347101" />
-    <state width="1323" height="219" key="GridCell.Tab.0.right" timestamp="1591802347101">
+    <state width="1323" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593107485387" />
+    <state width="1323" height="216" key="GridCell.Tab.0.right" timestamp="1593107485387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591802347101" />
+    <state width="1323" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593107485387" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1591291643818">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -231,14 +229,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="676" y="172" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591714575343" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1591671499961">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1592339594803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591671499961" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591743104335">
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592339594803" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1592257328919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591743104335" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592257328919" />
+    <state x="65" y="59" key="new project wizard" timestamp="1592065726416">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1592065726416" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1591458982079">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -16,10 +16,11 @@ import java.io.IOException;
 public class Listener extends base implements ITestListener {
     ExtentTest test;
     ExtentReports extent = ExtentReporterNG.getReportObject();
-    ThreadLocal <ExtentTest> extentTest = new ThreadLocal<ExtentTest>();
+    ThreadLocal<ExtentTest> extentTest = new ThreadLocal<ExtentTest>();
+
     public void onTestStart(ITestResult result) {
 
-        test= extent.createTest(result.getMethod().getMethodName());
+        test = extent.createTest(result.getMethod().getMethodName());
         extentTest.set(test);
     }
 
@@ -32,20 +33,18 @@ public class Listener extends base implements ITestListener {
     public void onTestFailure(ITestResult result) {
 
         extentTest.get().fail(result.getThrowable());
-        WebDriver driver=null;
-        String testMethodName= result.getMethod().getMethodName();
+        WebDriver driver = null;
+        String testMethodName = result.getMethod().getMethodName();
         try {
 
-            driver = (WebDriver)result.getTestClass().getRealClass().getDeclaredField("driver").get(result.getInstance());
-        }catch (Exception e)
-        {
+            driver = (WebDriver) result.getTestClass().getRealClass().getDeclaredField("driver").get(result.getInstance());
+        } catch (Exception e) {
 
         }
-        try{
-            extentTest.get().addScreenCaptureFromPath(getScreenShotPath(testMethodName, driver),result.getMethod().getMethodName());
+        try {
+            extentTest.get().addScreenCaptureFromPath(getScreenShotPath(testMethodName, driver), result.getMethod().getMethodName());
 
-
-        } catch ( IOException e){
+        } catch (IOException e) {
             e.printStackTrace();
         }
 

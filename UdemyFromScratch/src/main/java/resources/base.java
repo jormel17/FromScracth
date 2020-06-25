@@ -6,6 +6,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.io.File;
@@ -19,7 +20,7 @@ import java.util.concurrent.TimeUnit;
 
 public class base {
 
-    public WebDriver driver;
+    public static WebDriver driver;
     public Properties pro;
 
 
@@ -30,9 +31,14 @@ public class base {
         pro.load(file);
         String browsername= pro.getProperty("browser");
 
-        if (browsername.equals("chrome")){
-            //execute chrome
+        if (browsername.contains("chrome")){
             System.setProperty("webdriver.chrome.driver",  "C:\\D\\chromedriver.exe");
+           //Estas 2 lineas de codigo sirven para ejecutar el navegador escondido"
+            ChromeOptions options= new ChromeOptions();
+            if ( (browsername.contains("headless"))){
+                options.addArguments("headless");
+            }
+
             driver = new ChromeDriver();
 
         }

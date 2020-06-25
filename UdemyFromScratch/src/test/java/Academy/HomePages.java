@@ -43,7 +43,6 @@ public class HomePages extends base {
         fp.getEmail().sendKeys("xxx");
         fp.sendMeIntruction().click();
 
-
     }
 
     @DataProvider

@@ -7,10 +7,10 @@ import org.openqa.selenium.WebElement;
 public class LoginPage {
 
     public WebDriver driver;
-    By email = By.xpath("//input[@id='user_email']");
-    By password = By.xpath("//input[@id='user_password']");
-    By login = By.xpath("//input[@name='commit']");
-    By ForgotPass = By.cssSelector("[href*='password/new']");
+    private By email = By.xpath("//input[@id='user_email']");
+    private By password = By.xpath("//input[@id='user_password']");
+    private By login = By.xpath("//input[@name='commit']");
+    private By ForgotPass = By.cssSelector("[href*='password/new']");
 
     public LoginPage(WebDriver driver)
     {

@@ -7,8 +7,8 @@ import org.openqa.selenium.WebElement;
 public class ForgotPasswod {
 
     public WebDriver driver;
-    By email = By.xpath("//input[@id='user_email']");
-    By sendMeIntructions= By.cssSelector("[type='submit']");
+    private By email = By.xpath("//input[@id='user_email']");
+    private By sendMeIntructions= By.cssSelector("[type='submit']");
 
     public ForgotPasswod(WebDriver driver)
     {

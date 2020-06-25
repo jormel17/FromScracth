@@ -7,8 +7,8 @@ import org.openqa.selenium.WebElement;
 public class LadingPage {
 
     public WebDriver driver;
-    By signing = By.xpath("//span[contains(text(),'Login')]");
-    By title = By.xpath("//h2[contains(text(),'Featured Courses')]");
+    private By signing = By.xpath("//span[contains(text(),'Login')]");
+    private By title = By.xpath("//h2[contains(text(),'Featured Courses')]");
 
 
     public LadingPage(WebDriver driver)
