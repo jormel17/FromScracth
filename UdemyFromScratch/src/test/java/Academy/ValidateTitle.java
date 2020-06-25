@@ -16,7 +16,7 @@ import java.io.IOException;
 public class ValidateTitle extends base {
 
     public static Logger log = LogManager.getLogger(base.class.getName());
-    //public WebDriver driver;
+    public WebDriver driver;
 
 
     @BeforeTest
@@ -32,7 +32,7 @@ public class ValidateTitle extends base {
     public void BasePagesNavitgation() {
 
         LadingPage l= new LadingPage(driver);
-        Assert.assertEquals(l.getTitle().getText(),"FEATURED COURSaaES");
+        Assert.assertEquals(l.getTitle().getText(),"FEATURED COURSES");
         log.info("Successfully validated Text message");
     }
 

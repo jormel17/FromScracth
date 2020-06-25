@@ -15,8 +15,9 @@ import resources.base;
 import java.io.IOException;
 
 public class HomePages extends base {
-    public static Logger log = LogManager.getLogger(base.class.getName());
 
+    public static Logger log = LogManager.getLogger(base.class.getName());
+    public WebDriver driver;
 
     @BeforeTest
     public void initialize() throws IOException {
